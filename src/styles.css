@@ -1,0 +1,9 @@
+
+
+.logo svg {
+  transition: transform 0.25s ease;
+}
+
+.logo:hover svg {
+  transform: scale(1.04);
+}
